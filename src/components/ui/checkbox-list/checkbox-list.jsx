@@ -1,5 +1,5 @@
-import Checkbox from "/src/components/ui/checkbox/checkbox";
-import { Ul, Li } from "/src/components/styled/index";
+import Checkbox from "../checkbox/checkbox";
+import { Ul, Li } from "../../styled/index";
 
 // Радиокнопка
 function CheckboxList({

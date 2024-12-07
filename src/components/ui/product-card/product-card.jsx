@@ -1,5 +1,5 @@
 import React from "react";
-import Title, { TitleSize, TitleLevel } from "/src/components/ui/title/title";
+import Title, { TitleSize, TitleLevel } from "../title/title";
 import {
   StyledProductCard,
   StyledProductCategory,

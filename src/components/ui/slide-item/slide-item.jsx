@@ -7,9 +7,9 @@ import {
   SlideContent,
   SlidePrice,
 } from "./styles";
-import { TitleSize } from "/src/components/ui/title/title";
-import OptionsList from "/src/components/ui/options-list/options-list";
-import Tabs from "/src/components/ui/tabs/tabs";
+import { TitleSize } from "../title/title";
+import OptionsList from "../options-list/options-list";
+import Tabs from "../tabs/tabs";
 
 function SlideItem({ slide }) {
   const tabs = [

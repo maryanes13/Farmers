@@ -1,7 +1,7 @@
 import React from "react";
-import About from "/src/components/blocks/about/about";
-import ProductsList from "/src/components/blocks/products-list/products-list";
-import { TitleLevel } from "/src/components/ui/title/title";
+import About from "../../blocks/about/about";
+import ProductsList from "../../blocks/products-list/products-list";
+import { TitleLevel } from "../../ui/title/title";
 
 function MainPage({ products }) {
   return (

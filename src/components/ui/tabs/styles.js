@@ -1,5 +1,5 @@
 import styled, { css } from "styled-components";
-import { Ul, Li } from "/src/components/styled/index";
+import { Ul, Li } from "../../styled/index";
 
 export const TabListItem = styled(Li)`
   margin-right: 8px;

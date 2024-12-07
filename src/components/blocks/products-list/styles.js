@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { Li, Section, Ul } from "/src/components/styled";
+import { Li, Section, Ul } from "../../styled";
 
 export const StyledStarsList = styled(Section)`
   position: relative;

@@ -1,6 +1,6 @@
 import styled from "styled-components";
-import { Section } from "/src/components/styled";
-import aboutImage from "/src/assets/about.png";
+import { Section } from "../../styled";
+import aboutImage from "../../../assets/about.png";
 
 const Paragraph = styled.p`
   margin: 0;

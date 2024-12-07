@@ -1,9 +1,9 @@
 import React from "react";
-import Title from "/src/components/ui/title/title";
-import ProductCard from "/src/components/ui/product-card/product-card";
-import Button from "/src/components/ui/button/button";
+import Title from "../../ui/title/title";
+import ProductCard from "../../ui/product-card/product-card";
+import Button from "../../ui/button/button";
 import { StyledStarsList, ProductList, ProductItem } from "./styles";
-import { AppRoute } from "/src/const";
+import { AppRoute } from "../../../const";
 
 function ProductsList({ products, level }) {
   return (

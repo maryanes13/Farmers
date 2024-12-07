@@ -1,6 +1,6 @@
 import styled from "styled-components";
-import Section from "/src/components/styled/section/section";
-import TextInput from "/src/components/ui/text-input/text-input";
+import Section from "../../styled/section/section";
+import TextInput from "../text-input/text-input";
 
 export const Panel = styled.div`
   padding: ${(props) => props.theme.indent};

@@ -1,7 +1,7 @@
 import React from "react";
-import Button from "/src/components/ui/button/button";
+import Button from "../../ui/button/button";
 import { StyledButton } from "./styles";
-import { AppRoute } from "/src/const";
+import { AppRoute } from "../../../const";
 import { useLocation } from "react-router-dom";
 
 const buttons = [

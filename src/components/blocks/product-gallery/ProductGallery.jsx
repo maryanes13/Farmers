@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import SlideItem from "/src/components/ui/slide-item/slide-item";
+import SlideItem from "../../ui/slide-item/slide-item";
 import { SwiperSlide } from "swiper/react";
 import { StyledSection } from "./styles";
 

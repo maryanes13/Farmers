@@ -1,5 +1,5 @@
 import styled, { css } from "styled-components";
-import checkboxSelect from "/src/assets/checkbox.svg";
+import checkboxSelect from "../../../assets/checkbox.svg";
 
 export const VisuallyHiddenInput = styled.input`
   position: absolute;

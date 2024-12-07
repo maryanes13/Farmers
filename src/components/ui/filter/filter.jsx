@@ -1,9 +1,9 @@
 import React from "react";
-import Title, { TitleSize } from "/src/components/ui/title/title";
+import Title, { TitleSize } from "../title/title";
 import { Panel, FilterContent, InputAddress } from "./styles";
-import CheckboxList from "/src/components/ui/checkbox-list/checkbox-list";
-import PriceFormContent from "/src/components/ui/price-form-content/price-form-content";
-import Button from "/src/components/ui/button/button";
+import CheckboxList from "../checkbox-list/checkbox-list";
+import PriceFormContent from "../price-form-content/price-form-content";
+import Button from "../button/button";
 
 function Filter({
   slides,

@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import ProductGallery from "/src/components/blocks/product-gallery/ProductGallery";
-import Filter from "/src/components/ui/filter/filter";
+import ProductGallery from "../../blocks/product-gallery/ProductGallery";
+import Filter from "../../ui/filter/filter";
 import { StyleBuyPage } from "./styles";
 import "swiper/swiper-bundle.css";
 

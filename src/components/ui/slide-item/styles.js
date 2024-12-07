@@ -1,6 +1,6 @@
 import styled from "styled-components";
-import Img from "/src/components/styled/img/img";
-import Title from "/src/components/ui/title/title";
+import Img from "../../styled/img/img";
+import Title from "../title/title";
 
 export const SlideContent = styled.div`
   padding: 20px;

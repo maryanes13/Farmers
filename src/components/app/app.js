@@ -1,13 +1,13 @@
 import React from "react";
-import PageWrapper from "/src/components/layout/page-wrapper/page-wrapper";
-import products from "/src/mocks/products";
-import gallery from "/src/mocks/gallery";
+import PageWrapper from "../layout/page-wrapper/page-wrapper";
+import products from "../../mocks/products";
+import gallery from "../../mocks/gallery";
 import { GlobalStyle } from "./styles";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import { AppRoute } from "/src/const";
-import MainPage from "/src/components/pages/main-page/main-page";
-import BuyPage from "/src/components/pages/buy-page/buy-page";
-import ScrollToTop from "/src/components/ui/scroll-top/scroll-top";
+import { AppRoute } from "../../const";
+import MainPage from "../pages/main-page/main-page";
+import BuyPage from "../pages/buy-page/buy-page";
+import ScrollToTop from "../ui/scroll-top/scroll-top";
 
 export default function App() {
   return (
