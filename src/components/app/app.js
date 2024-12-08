@@ -17,7 +17,7 @@ export default function App() {
         <ScrollToTop />
         <Routes>
           <Route path={AppRoute.MAIN} element={<PageWrapper />}>
-            <Route index element={<MainPage products={products} />} />
+            <Route  index element={<MainPage products={products} />} />
             <Route
               path={AppRoute.BUY.replace(AppRoute.MAIN, "")}
               element={<BuyPage slides={gallery} />}
