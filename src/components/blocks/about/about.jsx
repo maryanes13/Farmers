@@ -7,7 +7,7 @@ function About() {
     <StyledSection>
       <TextWrapper>
         <Title level={TitleLevel.H1} size={TitleSize.BIG}>
-          Магазин фермерских продуктов с доставкой
+          Магазин фермерских продуктов с доставкой на дом
         </Title>
         <Text>
           Все продукты изготавливаются под заказ. Фермеры начинают готовить
