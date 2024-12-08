@@ -4,7 +4,7 @@
   "description": "",
   "keywords": [],
   "main": "src/index.tsx",
-  "homepage": "https://maryanes13.github.io",
+  "homepage": "https://maryanes13.github.io/Farmers/",
   "dependencies": {
     "customize-cra": "1.0.0",
     "gh-pages": "^6.2.0",

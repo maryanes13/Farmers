@@ -3,7 +3,7 @@ import PageWrapper from "../layout/page-wrapper/page-wrapper";
 import products from "../../mocks/products";
 import gallery from "../../mocks/gallery";
 import { GlobalStyle } from "./styles";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouterRouter as Router, Routes, Route } from "react-router-dom";
 import { AppRoute } from "../../const";
 import MainPage from "../pages/main-page/main-page";
 import BuyPage from "../pages/buy-page/buy-page";
